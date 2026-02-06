@@ -1,0 +1,3 @@
+[submodule "lecture_github"]
+	path = lecture_github
+	url = ./lecture_github/
